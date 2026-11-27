@@ -55,15 +55,15 @@ Avec **Tengo Yo**, on pose **un seul cell à plat au centre de la table**. La ca
 
 | | |
 | --- | --- |
-| ⏱️ **Pour commencer** | 30 secondes : ouvrir le lien, appuyer sur « Jouer » |
-| 🃏 **Cartes** | 419, en 3 niveaux de piquant |
-| 📱 **Matériel** | 1 cell, 1 crayon et 1 feuille par joueur |
-| 💸 **Prix** | Gratuit, sans pub, sans compte, sans téléchargement |
-| 🪶 **Poids** | Moins de 1,5 Mo, aucun serveur ni base de données |
+| **Pour commencer** | 30 secondes : ouvrir le lien, appuyer sur « Jouer » |
+| **Cartes** | 419, en 3 niveaux de piquant |
+| **Matériel** | 1 cell, 1 crayon et 1 feuille par joueur |
+| **Prix** | Gratuit, sans pub, sans compte, sans téléchargement |
+| **Poids** | Moins de 1,5 Mo, aucun serveur ni base de données |
 
 </div>
 
-### 🧠 Pourquoi c'est si drôle
+### Pourquoi c'est si drôle
 
 - **Le dilemme à chaque carte.** Tu veux écrire la réponse la plus évidente, *mais* ton coéquipier, lui, va-t-il jouer la plus drôle ? C'est ce choix, refait à chaque carte, qui rend le jeu prenant.
 - **La pression du chrono.** 15 secondes, c'est assez pour hésiter et pas assez pour réfléchir. Le cercle vire au rouge dans les 5 dernières secondes, puis le buzzer tombe.
@@ -75,20 +75,19 @@ Avec **Tengo Yo**, on pose **un seul cell à plat au centre de la table**. La ca
 <img src="docs/readme/screens.jpg" alt="Quatre écrans : accueil et réglages, carte en jeu, fin du chrono, écran de fin" width="100%"/>
 </div>
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
-- 🔄 **Carte lisible des deux côtés** de la table, avec le piment d'intensité au milieu.
-- 🌶️ **3 niveaux de piquant** : 🌶️ Loufoque, 🌶️🌶️ Irrévérencieux, 🌶️🌶️🌶️ Coquin. Tu choisis le niveau maximum.
-- 🎲 **2 modes de jeu** : *Escalade* (le piquant monte au fil de la partie) ou *Aléatoire* (tout est mélangé).
-- 🔢 **De 5 à 100 cartes** par partie (20 par défaut).
-- ⏭️ **Passer une carte** qui ne plaît à personne. Elle ne compte pas et une autre la remplace.
-- 🧠 **Peu de répétitions** : le jeu retient les cartes déjà vues sur l'appareil et pige d'abord les nouvelles.
-- 🔊 **Décompte, buzzer et vibration**, avec une musique d'ambiance sur l'accueil. Un bouton coupe le son.
-- 📵 **L'écran reste allumé** pendant la partie. Le chrono se met en pause si on quitte l'app.
-- 💀 **Direction artistique Día de Muertos** : papel picado, calaveras, la police Luchados et une carte qui se retourne en 3D.
-- ♿ **Accessible** : la question est lue par les lecteurs d'écran, et les animations sont réduites quand le téléphone le demande.
+- **Carte lisible des deux côtés** de la table, avec le piment d'intensité au milieu.
+- **3 niveaux de piquant** : 🌶️ Loufoque, 🌶️🌶️ Irrévérencieux, 🌶️🌶️🌶️ Coquin. Tu choisis le niveau maximum.
+- **2 modes de jeu** : *Escalade* (le piquant monte au fil de la partie) ou *Aléatoire* (tout est mélangé).
+- **De 5 à 100 cartes** par partie (20 par défaut).
+- **Passer une carte** qui ne plaît à personne. Elle ne compte pas et une autre la remplace.
+- **Peu de répétitions** : le jeu retient les cartes déjà vues sur l'appareil et pige d'abord les nouvelles.
+- **Décompte, buzzer et vibration**, avec une musique d'ambiance sur l'accueil. Un bouton coupe le son.
+- **L'écran reste allumé** pendant la partie. Le chrono se met en pause si on quitte l'app.
+- **Accessible** : la question est lue par les lecteurs d'écran, et les animations sont réduites quand le téléphone le demande.
 
-## 📜 Comment jouer
+## Comment jouer
 
 1. **Formez des équipes de deux** (ou jouez chacun pour soi). Chaque joueur a une feuille et un crayon.
 2. **Posez le cell à plat au centre de la table.**
@@ -107,8 +106,8 @@ Elles sont accessibles depuis l'écran **Règlements** (section « À imprimer �
 
 | Feuille | Usage | Fichiers |
 | --- | --- | --- |
-| 📝 **Réponses** | Une par joueur. Logo et code QR pour lancer le jeu. | [`print/reponses.html`](print/reponses.html) · [PDF](print/tengo-yo-reponses.pdf) |
-| 🏆 **Pointage** | Une par table. 6 colonnes d'équipes, points comptés en bâtons. | [`print/pointage.html`](print/pointage.html) · [PDF](print/tengo-yo-pointage.pdf) |
+| **Réponses** | Une par joueur. Logo et code QR pour lancer le jeu. | [`print/reponses.html`](print/reponses.html) · [PDF](print/tengo-yo-reponses.pdf) |
+| **Pointage** | Une par table. 6 colonnes d'équipes, points comptés en bâtons. | [`print/pointage.html`](print/pointage.html) · [PDF](print/tengo-yo-pointage.pdf) |
 
 Dans la fenêtre d'impression, choisis le format Lettre et décoche « En-têtes et pieds de page ».
 
@@ -132,11 +131,11 @@ A card shows a prompt, for example *"An app you open 50 times a day"*. Everyone 
 
 ---
 
-## 🛠️ Pour les devs
+## Pour les devs
 
 Une web app mobile **100 % client-side** : HTML, CSS et JavaScript (modules ES), sans framework, sans étape de build et sans base de données. Les animations utilisent [GSAP](https://gsap.com/), hébergé localement.
 
-### 🚀 Lancer en local
+### Lancer en local
 
 Les questions sont chargées en JSON. Il faut donc un petit serveur web : ouvrir `index.html` en double-clic ne fonctionne pas.
 
@@ -156,7 +155,7 @@ Téléverse le dossier tel quel sur n'importe quel hébergement statique : Netli
 - **À téléverser :** `index.html`, `site.webmanifest`, `sitemap.xml`, `css/`, `js/`, `data/`, `assets/`, `vendor/`, `print/`.
 - **Inutiles en ligne :** `ref/`, `tools/`, `docs/`, `.claude/`, `.agents/`, `README.md`.
 
-### 🗂️ Structure
+### Structure
 
 ```text
 index.html            Écrans : accueil, règlements, décompte, partie, fin (+ balises SEO)
@@ -185,7 +184,7 @@ tools/social/         Gabarits et scripts de génération d'images (non déploy�
 vendor/gsap.min.js    GSAP 3 (local, aucun CDN)
 ```
 
-### 🔍 SEO et partage
+### SEO et partage
 
 - `index.html` : titre, description, URL canonique, balises Open Graph (Facebook, Messenger, LinkedIn) et X/Twitter, données structurées `WebApplication`, icônes et manifeste.
 - `site.webmanifest` : nom, couleurs et icônes quand on ajoute le jeu à l'écran d'accueil du cell.
@@ -195,7 +194,7 @@ vendor/gsap.min.js    GSAP 3 (local, aucun CDN)
 
 Après la mise en ligne, teste l'aperçu avec le [débogueur de partage Facebook](https://developers.facebook.com/tools/debug/). Le bouton « Scrape Again » vide le cache de Facebook après une modification de l'image.
 
-### 🎨 Images de partage, icônes et visuels du README
+### Images de partage, icônes et visuels du README
 
 Les images sont générées à partir de gabarits HTML, selon la charte de `.agents/design-context.md` :
 
@@ -216,7 +215,7 @@ python tools/social/icons.py
 Le rendu utilise Chrome (headless) et ffmpeg pour le JPG, et Pillow pour les icônes.
 Pour l'aperçu des liens vers le dépôt, téléverse `docs/readme/social-preview.png` dans **Settings → General → Social preview** sur GitHub.
 
-### ✍️ Ajouter des questions
+### Ajouter des questions
 
 Dans `data/questions.json` :
 
