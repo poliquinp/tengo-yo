@@ -67,6 +67,22 @@ This skill provides Claude with expert knowledge regarding a specific 16:9 board
 
 Note : Nous travaillerons sur un layout mobile vertical. Donc utiliser ce skill à titre de référence, sans s'y contraindre.
 
+### Thumbnail Design
+
+This skill designs high-impact thumbnails, article headers and Open Graph (link-preview) images optimized for high contrast, small-size readability and click-through rate. It covers platform dimensions (1200 x 630 for Facebook / OG), safe zones, text treatment and a shrink test to validate readability.
+
+```npx skillfish add arnavpuri/designskills thumbnail-design```
+
+Note : Utilisé pour les images de partage sur les médias sociaux (Open Graph). On utilise la voie HTML/CSS du skill (gabarits dans `tools/social/`, rendus par Chrome) avec la charte de `.agents/design-context.md`.
+
+### Project Readme Author
+
+This skill creates, modifies, validates and optimizes README.md files following GitHub best practices, using a Hook → Prove → Enable → Extend structure (hero, aha-moment demo, social proof, quick start, then reference docs) to maximize reach and conversion.
+
+```npx skillfish add tsilva/claude-skills project-readme-author```
+
+Note : Utilisé avec *Game Design Fun* pour le README GitHub. Les visuels (bannière, GIF de démo, écrans) sont dans `docs/readme/` et se régénèrent avec les gabarits de `tools/social/`.
+
 ## Référence
 
 Titre: Tengo Duo

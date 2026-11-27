@@ -3,6 +3,14 @@ export const CONFIG = {
   questionsUrl: 'data/questions.json',
   buzzerUrl: 'assets/sounds/buzzer.mp3',
 
+  // Musique d'ambiance (accueil et règlements), jouée en boucle sans coupure.
+  music: {
+    url: 'assets/sounds/las-montanas_loop.mp3',
+    loopSeconds: 377921 / 44100, // durée exacte de la boucle source (WAV), le MP3 ajoute du silence
+    volume: 0.35,
+    fadeSeconds: 0.6,
+  },
+
   roundSeconds: 15,       // durée du chrono par carte
   warningSeconds: 5,      // dernières secondes : anneau rouge + tic
   countdownFrom: 5,       // 5, 4, 3, 2, 1 avant la première carte

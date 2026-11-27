@@ -109,6 +109,8 @@ function go(name) {
   const prev = screens[state.screen];
   state.screen = name;
   fx.showScreen(screens[name], prev);
+  // Musique d'ambiance seulement sur l'accueil et les règlements
+  sound.setMusic(name === 'home' || name === 'rules');
   if (name === 'end') fx.popIn($('#end-logo'), 0.05);
 }
 
@@ -430,7 +432,9 @@ function bindActions() {
   document.addEventListener('visibilitychange', () => {
     if (document.hidden) {
       if (state.phase === 'timing') timer.pause();
+      sound.suspend(); // pas de musique quand le cell est en veille ou sur une autre app
     } else {
+      sound.resume();
       if (state.phase === 'timing' && !el.quitDialog.open) timer.resume();
       if (wakeLock.wanted) wakeLock.request();
     }
@@ -454,6 +458,17 @@ async function init() {
   renderSettings();
   go('home');
 
+  // Les navigateurs bloquent le son avant un premier geste : la musique
+  // de l'accueil démarre au premier toucher, n'importe où sur l'écran.
+  const firstGesture = () => {
+    sound.setMuted(settings.muted);
+    sound.unlock();
+    window.removeEventListener('pointerdown', firstGesture, true);
+    window.removeEventListener('keydown', firstGesture, true);
+  };
+  window.addEventListener('pointerdown', firstGesture, true);
+  window.addEventListener('keydown', firstGesture, true);
+
   el.play.disabled = true;
   try {
     state.questions = await loadQuestions();
@@ -468,7 +483,8 @@ async function init() {
         : 'Impossible de charger les cartes. Recharge la page.';
   }
 
-  // Précharger l'image de face pour un premier retournement net.
+  // Précharger les deux faces de carte pour un premier retournement net.
+  new Image().src = 'assets/img/card-back.webp';
   new Image().src = 'assets/img/card-front.webp';
 }
 

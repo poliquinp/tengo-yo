@@ -3,18 +3,68 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  <!-- SEO -->
+  <title>Tengo Yo : le party game où il faut penser pareil</title>
+  <meta name="description" content="Une carte, un thème, 15 secondes pour écrire un seul mot. Même réponse que ton coéquipier ? 1 point ! Party game gratuit sur un seul cell, sans téléchargement.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://patricepoliquin.com/tengoyo/">
+
+  <!-- Partage : Facebook, Messenger, LinkedIn, iMessage… (Open Graph) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Tengo Yo">
+  <meta property="og:locale" content="fr_CA">
+  <meta property="og:url" content="https://patricepoliquin.com/tengoyo/">
+  <meta property="og:title" content="Tengo Yo : ¡Pensez pareil!">
+  <meta property="og:description" content="1 thème, 15 secondes, le même mot = 1 point. Le party game gratuit qui se joue sur un seul cell, au milieu de la table.">
+  <meta property="og:image" content="https://patricepoliquin.com/tengoyo/assets/social/og-image.jpg">
+  <meta property="og:image:secure_url" content="https://patricepoliquin.com/tengoyo/assets/social/og-image.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Logo Tengo Yo, un squelette mariachi avec des maracas, et le slogan « ¡Pensez pareil! »">
+
+  <!-- Partage : X / Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tengo Yo : ¡Pensez pareil!">
+  <meta name="twitter:description" content="1 thème, 15 secondes, le même mot = 1 point. Le party game gratuit sur un seul cell.">
+  <meta name="twitter:image" content="https://patricepoliquin.com/tengoyo/assets/social/og-image.jpg">
+  <meta name="twitter:image:alt" content="Logo Tengo Yo et le slogan « ¡Pensez pareil! »">
+
+  <!-- Icônes et installation sur l'écran d'accueil -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  <link rel="manifest" href="site.webmanifest">
   <meta name="theme-color" content="#000000">
-  <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Tengo Yo">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="robots" content="noindex">
-  <title>Tengo Yo</title>
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%80%3C/text%3E%3C/svg%3E">
+
+  <!-- Données structurées (Google) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Tengo Yo",
+    "alternateName": "Tengo Yo : le party game où il faut penser pareil",
+    "url": "https://patricepoliquin.com/tengoyo/",
+    "description": "Party game de groupe : une carte, un thème, 15 secondes pour écrire un seul mot. Les coéquipiers qui écrivent le même mot marquent un point. Gratuit, sur un seul cellulaire posé au milieu de la table.",
+    "image": "https://patricepoliquin.com/tengoyo/assets/social/og-image.jpg",
+    "inLanguage": "fr-CA",
+    "applicationCategory": "GameApplication",
+    "genre": "Party game",
+    "operatingSystem": "Tous (navigateur web)",
+    "browserRequirements": "Nécessite JavaScript",
+    "isAccessibleForFree": true,
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "CAD" }
+  }
+  </script>
 
   <link rel="preload" href="assets/fonts/Luchados.woff" as="font" type="font/woff" crossorigin>
   <link rel="preload" href="assets/fonts/open-sans-wght.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="assets/img/logo.webp" as="image">
-  <link rel="preload" href="assets/img/card-back.webp" as="image">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -25,6 +75,7 @@
       <h1 class="logo" id="home-title">
         <img src="assets/img/logo.webp" alt="Tengo Yo" class="logo__img" id="logo" width="720" height="1010">
       </h1>
+      <p class="sr-only">Le party game où il faut penser pareil : une carte, un thème, 15 secondes pour écrire un seul mot. Même réponse que ton coéquipier ? 1 point.</p>
 
       <div class="settings">
         <div class="setting">
