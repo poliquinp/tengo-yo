@@ -1,0 +1,65 @@
+Item	Color	Hex	Name	Meaning
+Marigold petals	Orange	
+#FF9A00
+
+Cempasúchil	Guides spirits home; the sun, life and warmth
+Papel picado	Pink	
+#FF007F
+
+Papel Picado Pink	Celebration, joy and festivity
+Sugar skull base	White	
+#FFFFFF
+
+Calavera White	Purity, hope and the soul
+Mourning cloth	Black	
+#000000
+
+Luto	Grief, the underworld and respect
+Banners, leaves	Green	
+#00A859
+
+Hopeful Green	Hope, nature and the continuity of life
+Candles, flowers	Red	
+#FF0000
+
+Passionate Red	Blood, life force and love for the departed
+Paper, painted details	Blue	
+#0077C8
+
+Sky Blue	Sky, water and serenity
+Cempasúchil Orange (#FF9A00)
+The anchor of the whole system. 
+#FF9A00
+
+ is a warm, saturated orange that leans toward yellow, echoing the petals of the Aztec marigold, known in Nahuatl as cempohualxochitl, "twenty-flower." In practice it is the color with the most visual weight on any ofrenda: petal paths, arches of flowers, crosses laid on graves. Symbolically it stands for the sun and for life, and its intensity is literally meant to be seen from the other side.
+
+For designers, 
+#FF9A00
+
+ behaves beautifully against black and deep purple, and it passes as a large-area background better than a pure red would because its high luminance keeps it cheerful rather than aggressive.
+
+Papel Picado Pink (#FF007F)
+Mexican pink — rosa mexicano — is one of the most distinctive colors in the country's visual identity, and 
+#FF007F
+
+ captures its electric energy. On papel picado, the perforated tissue banners strung above altars and streets, pink signals celebration. The banners also carry meaning through material: tissue paper is fragile, flutters in the wind and fades, a gentle reminder of how brief life is.
+
+Pink and orange side by side is a combination many Western designers would avoid. Here it is iconic. The two hues are analogous-adjacent warm colors, and together they produce a vibration that reads unmistakably as festive Mexico.
+
+Calavera White (#FFFFFF) and Luto Black (#000000)
+White and black form the structural frame of the palette. The calavera, or sugar skull, begins as white sugar paste; white represents purity, the soul and hope. Black, luto, is the color of mourning and the underworld. It shows up in lace, in clothing worn by La Catrina figures, and in the backgrounds of many prints.
+
+What matters for designers is the role these two play: they are the neutrals that let five saturated hues coexist. A calavera is a white canvas decorated with every other color in the palette. That is a useful model. White and black create the rests between the loud notes.
+
+Hopeful Green (#00A859)
+#00A859
+
+ is a clear, medium green that appears in papel picado, painted details and the foliage woven into flower arches. It carries associations of hope, nature and youth, and it also connects the celebration to the Mexican flag. Green is the palette's cooling agent: on a field dominated by orange and pink, a touch of green prevents the composition from overheating.
+
+Passionate Red (#FF0000) and Sky Blue (#0077C8)
+Red represents blood and life force — and by extension, love for the people being remembered. Red candles, red cockscomb flowers (terciopelo) and red icing on sugar skulls all appear on altars. Blue, rendered here as 
+#0077C8
+
+, is less dominant but important: it reads as sky and water, and in some regions blue is associated with the purification of the soul. Water is traditionally placed on the ofrenda so visiting spirits can quench their thirst after the journey.
+
+Want the print equivalents? Paste any of these values into our HEX to Pantone converter to find the nearest Pantone swatch with a Delta E score, which is essential if you plan to produce physical goods.

@@ -1,0 +1,2519 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "q003",
+      "text": "Un mot qu'on voit dans toutes les bios Tinder",
+      "spice": 1,
+      "category": "seduction"
+    },
+    {
+      "id": "q004",
+      "text": "Un sujet à éviter à une date",
+      "spice": 1,
+      "category": "seduction"
+    },
+    {
+      "id": "q005",
+      "text": "Un drink qui fait tomber les inhibitions",
+      "spice": 1,
+      "category": "soiree"
+    },
+    {
+      "id": "q006",
+      "text": "Ce qu'on mange en sortant du bar",
+      "spice": 1,
+      "category": "soiree"
+    },
+    {
+      "id": "q007",
+      "text": "Quelque chose qu'on perd toujours dans un party",
+      "spice": 1,
+      "category": "soiree"
+    },
+    {
+      "id": "q009",
+      "text": "Une destination au Québec pour un week-end en amoureux",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q010",
+      "text": "Un sport d'hiver pour un premier date",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q012",
+      "text": "Un détail qui rend quelqu'un instantanément cute",
+      "spice": 1,
+      "category": "corps"
+    },
+    {
+      "id": "q014",
+      "text": "Un cadeau de Saint-Valentin quétaine",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q016",
+      "text": "Un surnom mielleux pour son chum ou sa blonde",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q017",
+      "text": "Ce qu'on ment sur son profil de rencontre",
+      "spice": 1,
+      "category": "confessions"
+    },
+    {
+      "id": "q018",
+      "text": "Un réseau social où on stalke son kick",
+      "spice": 1,
+      "category": "confessions"
+    },
+    {
+      "id": "q022",
+      "text": "« J'ai pas vu ton texto, j'étais dans la… »",
+      "spice": 1,
+      "category": "seduction"
+    },
+    {
+      "id": "q025",
+      "text": "Un endroit où on a déjà dormi après un party",
+      "spice": 1,
+      "category": "soiree"
+    },
+    {
+      "id": "q032",
+      "text": "Ce qu'on regarde en premier sur le profil d'un ex",
+      "spice": 1,
+      "category": "confessions"
+    },
+    {
+      "id": "q033",
+      "text": "Un objet ramené d'un party sans savoir pourquoi",
+      "spice": 1,
+      "category": "confessions"
+    },
+    {
+      "id": "q035",
+      "text": "Ce qu'on fouille dans le cell de son partenaire",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q036",
+      "text": "Une raison classique de chicane de couple",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q037",
+      "text": "Une tâche ménagère qu'on fait pour se faire pardonner",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q041",
+      "text": "Ce qui gèle en premier quand on frenche dehors en janvier",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q059",
+      "text": "Ce qu'on porte quand on a la maison à soi tout seul",
+      "spice": 1,
+      "category": "confessions"
+    },
+    {
+      "id": "q101",
+      "text": "Un animal qui ferait un pire coloc",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q102",
+      "text": "Un prénom humain ridicule pour un chien",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q103",
+      "text": "Ce qu'on trouve sous un divan",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q104",
+      "text": "Un animal qu'on aimerait être pour une journée",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q105",
+      "text": "Une odeur de chalet",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q106",
+      "text": "Le mot qu'on crie en se cognant le petit orteil",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q107",
+      "text": "Un aliment qui n'a pas d'affaire sur une pizza",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q108",
+      "text": "Un objet à apporter sur une île déserte",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q109",
+      "text": "Le cadeau typique de matante à Noël",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q110",
+      "text": "La première chose qu'on fait en arrivant au chalet",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q111",
+      "text": "Ce qu'on garde dans le tiroir à cochonneries",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q112",
+      "text": "Un mot que seuls les Québécois comprennent",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q113",
+      "text": "Un animal qui ferait un bon avocat",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q114",
+      "text": "Le pire endroit pour un premier date",
+      "spice": 1,
+      "category": "seduction"
+    },
+    {
+      "id": "q115",
+      "text": "Un mot de jargon de bureau insupportable",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q116",
+      "text": "La pire saveur de chips",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q117",
+      "text": "Ce qu'on retrouve dans ses poches après une brassée",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q138",
+      "text": "Le pire endroit pour péter",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q139",
+      "text": "Ce qu'on « emprunte » dans une chambre d'hôtel",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q140",
+      "text": "Le mot à graver sur sa pierre tombale",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q141",
+      "text": "La pire chose à trouver dans son lunch",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q142",
+      "text": "Ce qu'on cache quand la belle-mère arrive",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q143",
+      "text": "Un animal qu'on soupçonne de nous juger",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q144",
+      "text": "Un plat qu'on fait semblant d'aimer chez la belle-mère",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q145",
+      "text": "Le pire endroit pour une diarrhée",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q146",
+      "text": "Un symptôme qu'on google à 3 h du matin",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q147",
+      "text": "Un objet qu'on garde depuis 10 ans « au cas où »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q148",
+      "text": "La pire odeur dans un vestiaire",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q149",
+      "text": "« Désolé du retard, c'est à cause de mon… »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q150",
+      "text": "Ce qu'on mange directement dans le pot",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q151",
+      "text": "Ce qu'on fait en cachette dans la douche",
+      "spice": 1,
+      "category": "confessions"
+    },
+    {
+      "id": "q152",
+      "text": "Un mot qui fait rire un enfant de 5 ans",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q153",
+      "text": "Ce qu'un raton laveur volerait dans votre cour",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q154",
+      "text": "Un métier qu'une IA va voler en premier",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q155",
+      "text": "Ce que ton chien pense de toi, en un mot",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q156",
+      "text": "Le pire endroit pour se faire laisser",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q157",
+      "text": "Ce qu'on achète au Costco sans en avoir besoin",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q158",
+      "text": "Le pire sujet à lancer au souper de Noël",
+      "spice": 1,
+      "category": "soiree"
+    },
+    {
+      "id": "q159",
+      "text": "Un objet qu'on lance pendant une chicane",
+      "spice": 1,
+      "category": "couple"
+    },
+    {
+      "id": "q160",
+      "text": "La pire odeur dans un char en juillet",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q161",
+      "text": "Un tatouage qu'on regrette",
+      "spice": 1,
+      "category": "confessions"
+    },
+    {
+      "id": "q162",
+      "text": "Un animal qui serait le pire chauffeur Uber",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q238",
+      "text": "« Il existe maintenant une app pour louer un… »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q239",
+      "text": "Ce qui m'empêche de dormir la nuit",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q240",
+      "text": "L'odeur bizarre dans le frigo, c'est du…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q241",
+      "text": "« J'ai 99 problèmes, mais ça, c'en est pas un : »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q242",
+      "text": "Le suspect principal quand il manque des biscuits",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q243",
+      "text": "Le prochain jouet dans le Joyeux Festin",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q244",
+      "text": "Une tribu perdue vient d'être découverte. Elle vénère le…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q245",
+      "text": "Les jeunes d'aujourd'hui sont tous accros à…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q246",
+      "text": "La médecine douce découvre les vertus du/de la…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q247",
+      "text": "« Et l'Oscar du meilleur rôle de soutien va à mon… »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q248",
+      "text": "Le bruit bizarre qu'on entend à 3 h du matin",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q249",
+      "text": "Nouvelle téléréalité : huit vedettes déchues vivent avec un…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q250",
+      "text": "Le plaisir coupable secret de Batman",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q251",
+      "text": "Le vrai meilleur ami de l'humain",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q252",
+      "text": "Ce que la sécurité de l'aéroport va interdire ensuite",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q253",
+      "text": "« Pour mon prochain tour, je vais sortir de mon chapeau un… »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q254",
+      "text": "J'aurais dû garder le mode d'emploi de mon…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q255",
+      "text": "Au lieu du charbon, le père Noël donne aux enfants tannants des…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q256",
+      "text": "La chose la plus emo au monde",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q257",
+      "text": "Dans 1000 ans, notre monnaie sera le/la…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q258",
+      "text": "Le pire acolyte pour un super-héros",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q259",
+      "text": "Un souper aux chandelles serait incomplet sans…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q260",
+      "text": "Un aliment dont on peut pas manger juste un",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q261",
+      "text": "Prochain tome : « Harry Potter et la chambre de/des… »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q262",
+      "text": "Après l'apocalypse, notre seul réconfort sera le/la…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q263",
+      "text": "Un objet du présent pour passer pour un sorcier en l'an 1200",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q264",
+      "text": "Le prochain sujet de comédie musicale à Broadway",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q265",
+      "text": "À cause d'un scandale, le Dollarama ne vend plus de…",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q266",
+      "text": "Comédie d'été : un comptable coincé dans le corps d'un…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q267",
+      "text": "Le plat préféré d'un lutteur sumo",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q268",
+      "text": "« Avant de vous éliminer, monsieur Bond, voici mon… »",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q269",
+      "text": "L'odeur d'une maison de grands-parents",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q270",
+      "text": "La sortie scolaire a été gâchée par des…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q271",
+      "text": "La 11e plaie d'Égypte",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q272",
+      "text": "Mon superpouvoir secret, en un mot",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q273",
+      "text": "Il y en a des tonnes au paradis",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q274",
+      "text": "Ce qui aide un premier ministre à décompresser",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q275",
+      "text": "Ce qu'un gars de gym mange pour souper",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q276",
+      "text": "Ce qui se bonifie avec l'âge",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q277",
+      "text": "Adoré par les enfants, détesté par les parents",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q278",
+      "text": "Les rats de laboratoire sont 50 % plus rapides après avoir mangé du…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q279",
+      "text": "La vie des hommes des cavernes était dure avant le/la…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q280",
+      "text": "La 4e guerre mondiale se battra avec des…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q281",
+      "text": "Pourquoi j'ai mal partout ce matin ?",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q282",
+      "text": "Ce qu'on jure d'abandonner le 1er janvier",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q283",
+      "text": "Le musée ouvre une expo interactive sur le/la…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q284",
+      "text": "Premier ministre, je créerais le ministère du/de la…",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q285",
+      "text": "Milliardaire, j'érigerais une statue géante de mon…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q286",
+      "text": "Ce qui met toujours de la vie dans un party",
+      "spice": 1,
+      "category": "soiree"
+    },
+    {
+      "id": "q287",
+      "text": "La nouvelle diète à la mode : manger seulement des…",
+      "spice": 1,
+      "category": "loufoque"
+    },
+    {
+      "id": "q288",
+      "text": "La LNH vient d'interdire le/la… pour avantage injuste",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q302",
+      "text": "Un objet qu'on perd toujours dans la maison",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q303",
+      "text": "Ce qu'on trouve au fond d'une sacoche",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q304",
+      "text": "Un appareil de cuisine qu'on n'utilise jamais",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q305",
+      "text": "Ce qui traîne toujours sur le comptoir",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q306",
+      "text": "Un objet qu'on emprunte et qu'on ne rend jamais",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q307",
+      "text": "Ce qu'on oublie toujours à l'épicerie",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q308",
+      "text": "Le premier objet qu'on sauve en cas de feu",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q309",
+      "text": "Une chose qu'on ne prête jamais",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q310",
+      "text": "Un objet qui lâche toujours au pire moment",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q311",
+      "text": "Ce qu'on retrouve sous le siège de l'auto",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q312",
+      "text": "Un électroménager beaucoup trop bruyant",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q313",
+      "text": "Ce qu'on lit assis sur la toilette",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q314",
+      "text": "Ce qui finit toujours par servir de cintre",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q315",
+      "text": "Ce qu'on garde dans le coffre à gants",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q316",
+      "text": "Un objet qu'on rachète parce qu'on l'a perdu",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q317",
+      "text": "Ce que le chat fait tomber de la table",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q318",
+      "text": "Ce qu'on fait en attendant que l'eau bouille",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q319",
+      "text": "Un objet qu'on brise toujours en déménageant",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q320",
+      "text": "Le cadeau classique de l'échange de Noël au bureau",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q321",
+      "text": "Un condiment oublié au fond du frigo",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q322",
+      "text": "Ce qu'on achète juste parce que c'est en spécial",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q323",
+      "text": "Un objet qu'on serre fort pendant un film d'horreur",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q324",
+      "text": "Le pire son pour se réveiller",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q325",
+      "text": "Un objet de bureau qui disparaît toujours",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q326",
+      "text": "Ce qu'on fait pendant une réunion, caméra fermée",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q327",
+      "text": "Le pire mois de l'année au Québec",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q328",
+      "text": "Un objet qui fait peur aux chats",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q329",
+      "text": "Ce qu'on trouve toujours dans un sous-sol",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q330",
+      "text": "Le pire endroit pour échapper son cell",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q331",
+      "text": "Un objet qu'on frappe pour le faire marcher",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q332",
+      "text": "Un jeu de société qui finit en chicane",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q333",
+      "text": "Un animal qu'on n'oserait jamais flatter",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q334",
+      "text": "Une odeur qui rappelle l'enfance",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q335",
+      "text": "Le légume le plus triste",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q336",
+      "text": "Un objet de la maison qui mérite une médaille",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q337",
+      "text": "Un fruit qui ferait un bon méchant de film",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q338",
+      "text": "Le pire nom à donner à un bateau",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q339",
+      "text": "Un sport olympique qu'on gagnerait sans entraînement",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q340",
+      "text": "Le plat le plus facile à rater",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q341",
+      "text": "Un sujet dont on fait semblant de s'y connaître",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q342",
+      "text": "Un objet que les jeunes ne savent plus utiliser",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q343",
+      "text": "Un mot qu'on dit 100 fois par jour",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q344",
+      "text": "Ce qu'on retrouve toujours dans le lavabo",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q345",
+      "text": "Un objet qu'on n'achète jamais usagé",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q346",
+      "text": "Un mot qu'on écrit toujours mal",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q347",
+      "text": "L'animal le plus surévalué",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q348",
+      "text": "La première chose qu'on fait en se levant",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q349",
+      "text": "Ce qu'on fait de mieux en mieux en vieillissant",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q350",
+      "text": "Le pire endroit pour éternuer",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q351",
+      "text": "Ce qu'on ramène toujours d'IKEA",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q352",
+      "text": "Ce qu'on ne fait jamais devant sa mère",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q353",
+      "text": "Ce qu'il y a toujours à un party de famille",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q354",
+      "text": "Un truc qui coûte trop cher pour ce que c'est",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q355",
+      "text": "Le meilleur moment de la journée",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q356",
+      "text": "Ce qu'on fait juste en vacances",
+      "spice": 1,
+      "category": "quotidien"
+    },
+    {
+      "id": "q402",
+      "text": "Un pays d'Europe",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q403",
+      "text": "Un pays où on parle espagnol",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q404",
+      "text": "Une capitale européenne",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q405",
+      "text": "Une ville du Québec",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q406",
+      "text": "Une province canadienne",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q407",
+      "text": "Un État américain",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q408",
+      "text": "Une île paradisiaque",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q409",
+      "text": "Un pays d'Asie",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q410",
+      "text": "Un fleuve ou une rivière célèbre",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q411",
+      "text": "Une région du Québec",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q412",
+      "text": "Une ville américaine où les Québécois vont en vacances",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q413",
+      "text": "Un pays d'Afrique",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q414",
+      "text": "Une montagne célèbre",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q415",
+      "text": "Un océan ou une mer",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q416",
+      "text": "Un métier qui s'exerce la nuit seulement",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q417",
+      "text": "Un métier où on porte un uniforme",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q418",
+      "text": "Un métier dangereux",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q419",
+      "text": "Un métier qui n'existera plus dans 20 ans",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q420",
+      "text": "Un métier où on travaille avec des animaux",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q421",
+      "text": "Un métier qu'on rêvait de faire enfant",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q422",
+      "text": "Un plat typiquement québécois",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q423",
+      "text": "Une épice",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q424",
+      "text": "Une sorte de fromage",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q425",
+      "text": "Une garniture à pizza",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q426",
+      "text": "Un fruit tropical",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q427",
+      "text": "Un dessert du temps des Fêtes",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q428",
+      "text": "Une marque de céréales",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q429",
+      "text": "Une sorte de pâtes",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q430",
+      "text": "Un mets de cabane à sucre",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q431",
+      "text": "Une boisson chaude",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q432",
+      "text": "Une saveur de crème glacée",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q433",
+      "text": "Une chaîne de restauration rapide",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q434",
+      "text": "Une bière québécoise",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q435",
+      "text": "Une compagnie qui fabrique des réfrigérateurs",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q436",
+      "text": "Une marque d'auto",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q437",
+      "text": "Une marque de téléphone",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q438",
+      "text": "Une chaîne d'épiceries au Québec",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q439",
+      "text": "Une marque de souliers de sport",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q440",
+      "text": "Une compagnie aérienne",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q441",
+      "text": "Un magasin à grande surface",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q442",
+      "text": "Une marque de chips",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q443",
+      "text": "Une marque de boisson gazeuse",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q444",
+      "text": "Une chaîne de cafés",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q445",
+      "text": "Une console de jeux vidéo",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q446",
+      "text": "Une compagnie de livraison de colis",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q447",
+      "text": "Une plateforme d'écoute en continu",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q448",
+      "text": "Le nom d'une émission de téléréalité",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q449",
+      "text": "Un site pour magasiner en ligne",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q450",
+      "text": "Un jeu vidéo célèbre",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q451",
+      "text": "Une application de rencontre",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q452",
+      "text": "Une application qu'on ouvre 50 fois par jour",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q453",
+      "text": "Un film de Noël",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q454",
+      "text": "Un personnage de Disney",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q455",
+      "text": "Un super-héros de Marvel",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q456",
+      "text": "Un personnage des Simpson",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q457",
+      "text": "Une série télé québécoise culte",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q458",
+      "text": "Un dessin animé de notre enfance",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q459",
+      "text": "Un groupe de musique légendaire",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q460",
+      "text": "Un instrument de l'orchestre symphonique",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q461",
+      "text": "Un style de musique",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q462",
+      "text": "Une chanson de Noël",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q463",
+      "text": "Un animal de la ferme",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q464",
+      "text": "Un animal du Grand Nord",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q465",
+      "text": "Un oiseau qu'on voit au Québec",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q466",
+      "text": "Un insecte",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q467",
+      "text": "Un animal marin",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q468",
+      "text": "Une race de chien",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q469",
+      "text": "Un arbre",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q470",
+      "text": "Une fleur",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q471",
+      "text": "Un animal qui hiberne",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q472",
+      "text": "Un dinosaure",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q473",
+      "text": "Un sport olympique d'hiver",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q474",
+      "text": "Une équipe de la LNH",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q475",
+      "text": "Un sport qui se joue avec une balle",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q476",
+      "text": "Une position au hockey",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q477",
+      "text": "Un sport extrême",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q478",
+      "text": "Une couleur de l'arc-en-ciel",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q479",
+      "text": "Un signe du zodiaque",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q480",
+      "text": "Une langue parlée dans le monde",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q481",
+      "text": "Une pièce de la maison",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q482",
+      "text": "Un vêtement d'hiver",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q483",
+      "text": "Un outil dans un coffre à outils",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q484",
+      "text": "Un moyen de transport",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q485",
+      "text": "Un jour férié",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q486",
+      "text": "Une matière à l'école",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q487",
+      "text": "Une planète du système solaire",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q488",
+      "text": "Un jeu de cartes",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q489",
+      "text": "Un ustensile de cuisine",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q490",
+      "text": "Un meuble de salon",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q491",
+      "text": "Un personnage de conte de fées",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q492",
+      "text": "Un mot qui commence par « Z »",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q493",
+      "text": "Un prénom de grand-mère québécoise",
+      "spice": 1,
+      "category": "quebec"
+    },
+    {
+      "id": "q494",
+      "text": "Un prénom de bébé à la mode",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q495",
+      "text": "Une pièce d'un jeu d'échecs",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q496",
+      "text": "Une forme géométrique",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q497",
+      "text": "Un chiffre chanceux",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q498",
+      "text": "Un métal précieux",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q499",
+      "text": "Ce qu'on trouve dans une trousse de premiers soins",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q500",
+      "text": "Une émotion",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q501",
+      "text": "Une invention qui a changé le monde",
+      "spice": 1,
+      "category": "general"
+    },
+    {
+      "id": "q002",
+      "text": "Ce qu'on offre à boire pour faire monter quelqu'un",
+      "spice": 2,
+      "category": "seduction"
+    },
+    {
+      "id": "q008",
+      "text": "Un instrument de musique qui rend sexy",
+      "spice": 2,
+      "category": "quebec"
+    },
+    {
+      "id": "q011",
+      "text": "Une partie du corps qu'on remarque en premier",
+      "spice": 2,
+      "category": "corps"
+    },
+    {
+      "id": "q015",
+      "text": "Un genre de film pour un « Netflix and chill »",
+      "spice": 2,
+      "category": "couple"
+    },
+    {
+      "id": "q019",
+      "text": "Un accent qu'on trouve sexy",
+      "spice": 2,
+      "category": "fantasmes"
+    },
+    {
+      "id": "q021",
+      "text": "Un emoji coquin",
+      "spice": 2,
+      "category": "seduction"
+    },
+    {
+      "id": "q023",
+      "text": "La première chose qu'on regarde dans l'appart d'un date",
+      "spice": 2,
+      "category": "seduction"
+    },
+    {
+      "id": "q026",
+      "text": "Un jeu de société qui peut virer coquin",
+      "spice": 2,
+      "category": "soiree"
+    },
+    {
+      "id": "q027",
+      "text": "Une partie du corps qu'on aime se faire masser",
+      "spice": 2,
+      "category": "corps"
+    },
+    {
+      "id": "q029",
+      "text": "Un muscle qui fait de l'effet",
+      "spice": 2,
+      "category": "corps"
+    },
+    {
+      "id": "q030",
+      "text": "Une odeur qui donne envie de se rapprocher",
+      "spice": 2,
+      "category": "corps"
+    },
+    {
+      "id": "q034",
+      "text": "Le premier mot d'un texto à un ex à 2 h du matin",
+      "spice": 2,
+      "category": "confessions"
+    },
+    {
+      "id": "q039",
+      "text": "Une destination soleil pour une escapade coquine",
+      "spice": 2,
+      "category": "fantasmes"
+    },
+    {
+      "id": "q040",
+      "text": "Un festival québécois où on finit par frencher un inconnu",
+      "spice": 2,
+      "category": "quebec"
+    },
+    {
+      "id": "q046",
+      "text": "Un fruit qui a l'air un peu louche",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q051",
+      "text": "Un sous-vêtement d'homme qui fait rire",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q052",
+      "text": "Le super-héros le plus sexy",
+      "spice": 2,
+      "category": "fantasmes"
+    },
+    {
+      "id": "q118",
+      "text": "Quelque chose qu'on souffle",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q119",
+      "text": "Un objet qu'on tient à deux mains",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q120",
+      "text": "Un fruit qu'on aime bien mûr",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q121",
+      "text": "Un légume plus long que large",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q122",
+      "text": "Quelque chose qu'on fait monter et descendre",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q123",
+      "text": "Un outil qui demande un bon coup de poignet",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q124",
+      "text": "Ce qu'on attache avant une bonne ride",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q125",
+      "text": "Un animal qu'on aime flatter",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q126",
+      "text": "Quelque chose qu'on fait durer le plus longtemps possible",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q127",
+      "text": "Le mot qu'on crie à la fin d'une bonne game",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q128",
+      "text": "Ce qui vibre au fond d'une sacoche",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q129",
+      "text": "Une viande qu'on aime bien juteuse",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q130",
+      "text": "Quelque chose qu'on aime mieux gros",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q131",
+      "text": "Une activité meilleure le matin",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q163",
+      "text": "Quelque chose qu'on lèche",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q164",
+      "text": "Ce qu'on fait sauter dans une poêle",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q165",
+      "text": "Ce qu'on enfile en premier le matin",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q166",
+      "text": "Quelque chose qu'on suce lentement",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q167",
+      "text": "Un mot qu'on dit autant chez le dentiste qu'au lit",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q168",
+      "text": "Ce qu'on force un peu pour que ça rentre",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q169",
+      "text": "Quelque chose qui est dur le matin",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q170",
+      "text": "Un mot de plombier qui sonne cochon",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q171",
+      "text": "Une sorte de saucisse",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q172",
+      "text": "Quelque chose qu'on tire",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q173",
+      "text": "« Une bonne paire de… »",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q174",
+      "text": "Quelque chose qu'on presse",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q175",
+      "text": "Ce qu'on met dans sa bouche sans réfléchir",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q176",
+      "text": "Un mot de golf qui sonne mal",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q177",
+      "text": "Quelque chose qu'on aime bien ferme",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q178",
+      "text": "Un mot de boulangerie qui sonne cochon",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q179",
+      "text": "Quelque chose qu'on graisse",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q180",
+      "text": "Un verbe de cuisine qui sonne cochon",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q181",
+      "text": "Quelque chose qu'on aime bien chaud",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q182",
+      "text": "Un instrument qu'on joue avec la bouche",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q289",
+      "text": "Pendant sa période brune, Picasso a peint des centaines de…",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q290",
+      "text": "Ce qui a mis fin à ma dernière relation",
+      "spice": 2,
+      "category": "couple"
+    },
+    {
+      "id": "q291",
+      "text": "Je bois pour oublier mon/ma…",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q292",
+      "text": "Le monde ne finira pas dans un bang, mais avec un…",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q293",
+      "text": "Mourir étouffé par un…",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q294",
+      "text": "Ce que mes parents me cachent",
+      "spice": 2,
+      "category": "confessions"
+    },
+    {
+      "id": "q295",
+      "text": "En prison, je me ferais passer en douce des…",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q296",
+      "text": "Le souvenir qu'on ramène toujours d'un tout-inclus",
+      "spice": 2,
+      "category": "soiree"
+    },
+    {
+      "id": "q297",
+      "text": "Le secret d'un couple qui dure",
+      "spice": 2,
+      "category": "couple"
+    },
+    {
+      "id": "q298",
+      "text": "Ce qui me donne des gaz incontrôlables",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q299",
+      "text": "Ce que grand-maman trouverait dérangeant, mais charmant",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q300",
+      "text": "Pourquoi j'ai les mains collantes ?",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q301",
+      "text": "La chose la plus croûtée dans une maison",
+      "spice": 2,
+      "category": "humour-noir"
+    },
+    {
+      "id": "q357",
+      "text": "Quelque chose qu'on secoue avant de s'en servir",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q358",
+      "text": "Quelque chose qu'on frotte pour que ça brille",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q359",
+      "text": "Quelque chose qu'on remplit à ras bord",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q360",
+      "text": "Ce qu'on aime voir se lever",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q361",
+      "text": "Quelque chose qu'on pince",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q362",
+      "text": "Un mot de garage qui sonne mal",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q363",
+      "text": "Quelque chose qu'on étale avec un couteau",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q364",
+      "text": "Quelque chose qu'on fait gonfler",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q365",
+      "text": "Quelque chose de long et mince dans la cuisine",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q366",
+      "text": "Ce qu'on sort seulement pour les grandes occasions",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q367",
+      "text": "Quelque chose qu'on visse",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q368",
+      "text": "Un mot de jardinage qui sonne mal",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q369",
+      "text": "Quelque chose qu'on tient par le manche",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q370",
+      "text": "Ce qu'on fait mieux à deux",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q371",
+      "text": "Quelque chose qui ramollit au micro-ondes",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q372",
+      "text": "Quelque chose qu'on fait cuire à feu doux",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q373",
+      "text": "Ce qu'on vide avant de partir en voyage",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q374",
+      "text": "Ce qu'on démêle",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q375",
+      "text": "Ce qu'on glisse dans une fente",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q376",
+      "text": "Ce qu'on ramène d'une journée de pêche",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q377",
+      "text": "Ce qui monte quand il fait chaud",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q378",
+      "text": "Quelque chose qu'on aime bien croquant",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q379",
+      "text": "Quelque chose qu'on enfonce",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q380",
+      "text": "Ce qu'on fait durcir au congélateur",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q381",
+      "text": "Quelque chose qui se mange en cornet",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q382",
+      "text": "Quelque chose qu'on mange avec les doigts",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q383",
+      "text": "Ce qu'on tient en laisse",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q384",
+      "text": "Un mot de hockey qui sonne mal",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q385",
+      "text": "Quelque chose qu'on pèle",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q386",
+      "text": "Quelque chose qui fait « pop »",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q387",
+      "text": "Ce qui se lève avant tout le monde",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q388",
+      "text": "Un mot de couture qui sonne mal",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q389",
+      "text": "Ce qu'on ajuste avant de partir",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q390",
+      "text": "Ce qu'on rentre de reculons",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q391",
+      "text": "Ce qu'il faut manger vite avant que ça fonde",
+      "spice": 2,
+      "category": "double-sens"
+    },
+    {
+      "id": "q001",
+      "text": "Un endroit insolite pour un premier baiser",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q013",
+      "text": "La couleur de lingerie la plus sexy",
+      "spice": 3,
+      "category": "corps"
+    },
+    {
+      "id": "q024",
+      "text": "Une partie du corps qu'on touche « par accident » pour flirter",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q028",
+      "text": "Quelque chose qu'on rase avant un date",
+      "spice": 3,
+      "category": "corps"
+    },
+    {
+      "id": "q031",
+      "text": "Le premier mot qu'on dit en se réveillant à côté d'un inconnu",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q038",
+      "text": "Un métier qui fait fantasmer",
+      "spice": 3,
+      "category": "fantasmes"
+    },
+    {
+      "id": "q042",
+      "text": "Un endroit pour faire du necking en char",
+      "spice": 3,
+      "category": "quebec"
+    },
+    {
+      "id": "q049",
+      "text": "Une pièce de lingerie qui fait de l'effet",
+      "spice": 3,
+      "category": "corps"
+    },
+    {
+      "id": "q054",
+      "text": "Une raison de ne pas avoir envie ce soir",
+      "spice": 3,
+      "category": "couple"
+    },
+    {
+      "id": "q058",
+      "text": "Le pire endroit pour se faire surprendre en pleine action",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q060",
+      "text": "Ce qu'on cache en éteignant la lumière",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q062",
+      "text": "Ce qu'on prétend aller chercher pour s'éclipser à deux",
+      "spice": 3,
+      "category": "soiree"
+    },
+    {
+      "id": "q063",
+      "text": "Quelque chose qu'on traîne dans son sac « au cas où »",
+      "spice": 3,
+      "category": "soiree"
+    },
+    {
+      "id": "q065",
+      "text": "Une chose qu'on prépare pour mettre l'ambiance",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q066",
+      "text": "Ce qu'on change dans sa chambre avant un date prometteur",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q132",
+      "text": "Une princesse Disney qui aurait un OnlyFans",
+      "spice": 3,
+      "category": "fantasmes"
+    },
+    {
+      "id": "q133",
+      "text": "Quelque chose qu'on mouille avant de s'en servir",
+      "spice": 3,
+      "category": "double-sens"
+    },
+    {
+      "id": "q134",
+      "text": "Ce qu'on rentre dans un petit trou",
+      "spice": 3,
+      "category": "double-sens"
+    },
+    {
+      "id": "q135",
+      "text": "Ce qu'on fait mieux à quatre pattes",
+      "spice": 3,
+      "category": "double-sens"
+    },
+    {
+      "id": "q136",
+      "text": "Le premier vêtement qu'on enlève en arrivant chez quelqu'un",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q137",
+      "text": "Ce qu'on regarde en cachette sur son cell au travail",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q183",
+      "text": "Ce qu'on fait à genoux",
+      "spice": 3,
+      "category": "double-sens"
+    },
+    {
+      "id": "q184",
+      "text": "Ce qu'on trouve dans la table de chevet d'un hôtel",
+      "spice": 3,
+      "category": "soiree"
+    },
+    {
+      "id": "q185",
+      "text": "Le premier mot quand les parents entrent sans cogner",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q186",
+      "text": "Ce qu'on cache sous son lit",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q187",
+      "text": "Un méchant de dessin animé étrangement sexy",
+      "spice": 3,
+      "category": "fantasmes"
+    },
+    {
+      "id": "q188",
+      "text": "Un son qu'on entend à travers les murs d'un motel",
+      "spice": 3,
+      "category": "soiree"
+    },
+    {
+      "id": "q189",
+      "text": "Un mot à ne jamais écrire dans un sexto",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q190",
+      "text": "Un endroit où on a déjà fait pipi en cachette",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q191",
+      "text": "Un truc qu'on fait avec la langue pour impressionner",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q192",
+      "text": "Ce qu'on regarde dans le miroir en sortant de la douche",
+      "spice": 3,
+      "category": "corps"
+    },
+    {
+      "id": "q193",
+      "text": "Un costume d'Halloween qu'on rend « sexy » pour rien",
+      "spice": 3,
+      "category": "fantasmes"
+    },
+    {
+      "id": "q194",
+      "text": "Le nombre de verres avant de texter son ex",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q195",
+      "text": "Ce qu'on ment à son médecin",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q196",
+      "text": "Ce qu'on a déjà fait sur la banquette d'un Uber",
+      "spice": 3,
+      "category": "soiree"
+    },
+    {
+      "id": "q197",
+      "text": "Le pire endroit du corps pour attraper un coup de soleil",
+      "spice": 3,
+      "category": "corps"
+    },
+    {
+      "id": "q198",
+      "text": "Ce qu'on oublie toujours chez quelqu'un après une soirée",
+      "spice": 3,
+      "category": "soiree"
+    },
+    {
+      "id": "q199",
+      "text": "Ce qu'on a honte d'acheter à la pharmacie",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q200",
+      "text": "Un mot qu'on chuchote à l'oreille pour faire frissonner",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q201",
+      "text": "Une activité qu'on fait quand on est seul",
+      "spice": 3,
+      "category": "confessions"
+    },
+    {
+      "id": "q202",
+      "text": "Un accessoire d'enterrement de vie de garçon ou de fille",
+      "spice": 3,
+      "category": "soiree"
+    },
+    {
+      "id": "q392",
+      "text": "Le pire endroit pour un premier « je t'aime »",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q393",
+      "text": "Ce qu'on vérifie juste avant un date",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q394",
+      "text": "Ce qu'on porte pour impressionner un date",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q395",
+      "text": "Un endroit où on se fait de l'œil",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q396",
+      "text": "Un signe qu'on a un kick sur quelqu'un",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q397",
+      "text": "Le pire endroit pour cruiser",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q398",
+      "text": "La partie du corps la plus chatouilleuse",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q399",
+      "text": "Ce qu'on rentre pour être beau en photo",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q400",
+      "text": "Ce qu'on réchauffe sous les couvertes en hiver",
+      "spice": 3,
+      "category": "seduction"
+    },
+    {
+      "id": "q401",
+      "text": "Le meilleur endroit pour se coller en hiver",
+      "spice": 3,
+      "category": "seduction"
+    }
+  ]
+}

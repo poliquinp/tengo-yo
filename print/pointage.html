@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tengo Yo : feuille de pointage</title>
+  <link rel="stylesheet" href="print.css">
+  <style>
+    .head {
+      display: flex;
+      align-items: center;
+      gap: 0.25in;
+      padding-bottom: 0.14in;
+      border-bottom: 3px solid var(--rosa);
+    }
+
+    .head__logo { height: 0.95in; width: auto; }
+    .head__title { margin: 0; font-size: 46px; color: var(--rosa); }
+    .head__date { margin-left: auto; font-size: 13px; color: var(--soft); align-self: flex-end; padding-bottom: 6px; }
+    .head__date span { display: inline-block; width: 1.5in; border-bottom: 1px solid var(--ink); }
+
+    /* 6 colonnes d'équipe : nom en haut, grand espace libre pour les bâtons */
+    .teams {
+      flex: 1;
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      margin-top: 0.18in;
+      border: 2px solid var(--ink);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .team { display: flex; flex-direction: column; min-width: 0; }
+    .team + .team { border-left: 1.5px solid var(--ink); }
+
+    .team__name {
+      height: 0.75in;
+      padding: 5px 6px;
+      border-bottom: 2px solid var(--ink);
+      background: #fff4fa;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--rosa);
+    }
+
+    .team__score { flex: 1; }
+
+    .foot {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.3in;
+      margin-top: 0.12in;
+      font-size: 12px;
+      color: var(--soft);
+    }
+
+    .tally { height: 22px; width: auto; vertical-align: middle; margin: 0 4px; }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <button type="button" onclick="window.print()">Imprimer</button>
+    <span>Format Lettre, portrait. Dans la fenêtre d'impression, décochez « En-têtes et pieds de page ».</span>
+  </div>
+
+  <main class="sheet">
+    <header class="head">
+      <img class="head__logo" src="../assets/img/logo.webp" alt="Tengo Yo">
+      <h1 class="head__title display">Pointage</h1>
+      <p class="head__date">Date : <span></span></p>
+    </header>
+
+    <section class="teams" aria-label="Colonnes des équipes">
+      <div class="team"><div class="team__name">Équipe</div><div class="team__score"></div></div>
+      <div class="team"><div class="team__name">Équipe</div><div class="team__score"></div></div>
+      <div class="team"><div class="team__name">Équipe</div><div class="team__score"></div></div>
+      <div class="team"><div class="team__name">Équipe</div><div class="team__score"></div></div>
+      <div class="team"><div class="team__name">Équipe</div><div class="team__score"></div></div>
+      <div class="team"><div class="team__name">Équipe</div><div class="team__score"></div></div>
+    </section>
+
+    <footer class="foot">
+      <span>
+        1 point = 1 bâton
+        <svg class="tally" viewBox="0 0 60 24" aria-label="Quatre bâtons barrés d'une ligne horizontale : 5 points">
+          <g stroke="#1a1418" stroke-width="2.4" stroke-linecap="round">
+            <path d="M10 3v18M20 3v18M30 3v18M40 3v18"/><path d="M3 12H47" stroke="#FF007F"/>
+          </g>
+        </svg>
+        = 5 points
+      </span>
+      <span>Fin de partie : tracez une ligne et on recommence en dessous.</span>
+    </footer>
+  </main>
+</body>
+</html>

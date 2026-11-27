@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fun-review",
+  "owner": "tielur",
+  "repo": "claude-game-studiokit",
+  "path": "plugins/game-design/skills/fun-review",
+  "branch": "main",
+  "sha": "1b0d7696e1c53f7dc05be6c4e212bafc0b71eb01",
+  "source": "manual"
+}

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tengo Yo : feuille de réponses</title>
+  <link rel="stylesheet" href="print.css">
+  <style>
+    .head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.3in;
+      padding-bottom: 0.16in;
+      border-bottom: 3px solid var(--rosa);
+    }
+
+    .head__logo { height: 2.1in; width: auto; }
+
+    .qr { display: flex; flex-direction: column; align-items: center; gap: 6px; text-align: center; }
+    .qr__code { width: 1.55in; height: 1.55in; display: block; image-rendering: pixelated; }
+    .qr__label { margin: 0; font-size: 22px; color: var(--rosa); }
+    .qr__url { margin: 0; max-width: 2.4in; font-size: 10px; color: var(--soft); word-break: break-all; }
+
+    .name {
+      display: flex;
+      align-items: flex-end;
+      gap: 10px;
+      margin-top: 0.22in;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .name span { flex: 1; border-bottom: 1.5px solid var(--ink); height: 1.2em; }
+
+    /* Grand espace libre pour écrire les réponses */
+    .answers { flex: 1; }
+
+    .foot { margin: 0; text-align: center; font-size: 11px; color: var(--soft); }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <button type="button" onclick="window.print()">Imprimer</button>
+    <span>Format Lettre, portrait. Dans la fenêtre d'impression, décochez « En-têtes et pieds de page ».</span>
+  </div>
+
+  <main class="sheet">
+    <header class="head">
+      <img class="head__logo" src="../assets/img/logo.webp" alt="Tengo Yo">
+      <div class="qr">
+        <!-- Code QR vers https://patricepoliquin.com/tengoyo/ (print/qr-tengoyo.png) -->
+        <img class="qr__code" src="qr-tengoyo.png" alt="Code QR vers patricepoliquin.com/tengoyo" width="888" height="888">
+        <p class="qr__label display">Scanne pour jouer</p>
+        <p class="qr__url">patricepoliquin.com/tengoyo</p>
+      </div>
+    </header>
+
+    <p class="name">Nom ou équipe : <span></span></p>
+
+    <section class="answers" aria-label="Espace pour écrire les réponses"></section>
+
+    <p class="foot">Un seul mot par réponse. 15 secondes. Pas de triche !</p>
+  </main>
+</body>
+</html>

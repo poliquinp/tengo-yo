@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "experience-design",
+  "owner": "rbergman",
+  "repo": "dark-matter-marketplace",
+  "path": "plugins/game-dev/skills/experience-design",
+  "branch": "main",
+  "sha": "a5d220e8541af7e9e25776d3d3d54117be81d24a",
+  "source": "manual"
+}
