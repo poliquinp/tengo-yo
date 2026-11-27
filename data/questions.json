@@ -2514,6 +2514,78 @@
       "text": "Le meilleur endroit pour se coller en hiver",
       "spice": 3,
       "category": "seduction"
+    },
+    {
+      "id": "q502",
+      "text": "J'ai des aiguilles, mais je ne couds jamais.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q503",
+      "text": "J'ai des dents, mais je ne mords jamais.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q504",
+      "text": "Je monte et je descends sans jamais bouger.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q505",
+      "text": "Plein le jour, vide la nuit.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q506",
+      "text": "Je suis à toi, mais les autres s'en servent plus que toi.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q507",
+      "text": "Ça commence la nuit et ça finit le matin.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q508",
+      "text": "Blanche, elle tombe du ciel ; brune, elle ruine tes bottes.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q509",
+      "text": "Plus j'ai de gardiens, moins je suis gardé.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q510",
+      "text": "Plus je sèche, plus je suis mouillée.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q511",
+      "text": "Le seul endroit où le succès vient avant le travail.",
+      "spice": 1,
+      "category": "devinette"
+    },
+    {
+      "id": "q512",
+      "text": "Plus c'est long, plus c'est bon.",
+      "spice": 2,
+      "category": "devinette"
+    },
+    {
+      "id": "q513",
+      "text": "On le fait à deux et on finit mouillés et essoufflés.",
+      "spice": 3,
+      "category": "devinette"
     }
   ]
 }

@@ -5,9 +5,9 @@
 # Tengo Yo
 
 [![Jouer](https://img.shields.io/badge/▶_Jouer-en_ligne-FF007F?style=for-the-badge)](https://patricepoliquin.com/tengoyo/)
-[![Cartes](https://img.shields.io/badge/cartes-419-FF9A00?style=for-the-badge)](data/questions.json)
+[![Cartes](https://img.shields.io/badge/cartes-431-FF9A00?style=for-the-badge)](data/questions.json)
 ![Langue](https://img.shields.io/badge/langue-français-00A859?style=for-the-badge)
-[![Version](https://img.shields.io/badge/version-1.0.2-1a1418?style=for-the-badge)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.1.0-1a1418?style=for-the-badge)](CHANGELOG.md)
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-0072CE?style=for-the-badge)](LICENSE)
 
 **Ton coéquipier et toi, vous pensez vraiment pareil ? Vous avez 15 secondes pour le prouver.**
@@ -57,7 +57,7 @@ Avec **Tengo Yo**, on pose **un seul cell à plat au centre de la table**. La ca
 | | |
 | --- | --- |
 | **Pour commencer** | 30 secondes : ouvrir le lien, appuyer sur « Jouer » |
-| **Cartes** | 419, en 3 niveaux de piquant |
+| **Cartes** | 431, en 3 niveaux de piquant, dont des devinettes |
 | **Matériel** | 1 cell, 1 crayon et 1 feuille par joueur |
 | **Prix** | Gratuit, sans pub, sans compte, sans téléchargement |
 | **Poids** | Moins de 1,5 Mo, aucun serveur ni base de données |
@@ -122,7 +122,7 @@ Dans la fenêtre d'impression, choisis le format Lettre et décoche « En-têtes
 A card shows a prompt, for example *"An app you open 50 times a day"*. Everyone has **15 seconds to write one word**. If you wrote **the same word as your teammate**, your team scores a point. You're not looking for the right answer, but for *the same* one.
 
 - One phone lies flat in the middle of the table. The card reads both ways, so everyone can see it.
-- 419 cards in 3 spice levels (silly, irreverent, cheeky). No explicit content.
+- 431 cards in 3 spice levels (silly, irreverent, cheeky), including riddles. No explicit content.
 - Two modes: *Escalade* (spice ramps up) or *Aléatoire* (random).
 - Pure HTML, CSS and JS. No build, no backend, no account, no ads.
 
@@ -227,7 +227,7 @@ Dans `data/questions.json` :
 - `id` : unique.
 - `text` : 70 caractères maximum, formulé pour que **la réponse naturelle tienne en un seul mot** (voir plus bas).
 - `spice` : intensité de 1 à 3 (voir plus bas).
-- `category` : general, quotidien, loufoque, humour-noir, double-sens, seduction, soiree, corps, fantasmes, confessions, couple, quebec.
+- `category` : general, quotidien, loufoque, humour-noir, double-sens, seduction, soiree, corps, fantasmes, confessions, couple, quebec, devinette.
 
 #### Niveaux d'intensité
 
@@ -278,6 +278,6 @@ Le logo apparaît sur l'accueil et sur l'écran de fin. Pour le changer, remplac
 
 **Tu as ri ? Donne une ⭐ au dépôt et envoie [le lien](https://patricepoliquin.com/tengoyo/) à ton prochain souper entre amis.**
 
-Fait au Québec par [Patrice Poliquin](https://patricepoliquin.com) · Version 1.0.2 ([changelog](CHANGELOG.md)) · Code sous [licence MIT](LICENSE)
+Fait au Québec par [Patrice Poliquin](https://patricepoliquin.com) · Version 1.1.0 ([changelog](CHANGELOG.md)) · Code sous [licence MIT](LICENSE)
 
 </div>

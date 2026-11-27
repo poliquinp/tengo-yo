@@ -9,6 +9,13 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et la nu
 
 ## [Non publié]
 
+## [1.1.0] - 2026-11-27
+
+### Cartes
+
+- Nouvelle catégorie `devinette` : 12 devinettes (10 🌶️, 1 🌶️🌶️, 1 🌶️🌶️🌶️). La plupart ont plusieurs réponses plausibles : il faut deviner laquelle son coéquipier va choisir.
+- Total : 431 cartes (279 🌶️, 100 🌶️🌶️, 52 🌶️🌶️🌶️).
+
 ## [1.0.2] - 2026-11-27
 
 Première version consignée dans ce changelog. Elle regroupe tout ce qui a été livré jusqu'ici.
@@ -44,5 +51,6 @@ Première version consignée dans ce changelog. Elle regroupe tout ce qui a ét�
 - Manifeste web et sitemap.
 - README GitHub avec bannière, GIF de démo et captures d'écran.
 
-[Non publié]: https://github.com/poliquinp/tengo-yo/compare/b70cd37...HEAD
+[Non publié]: https://github.com/poliquinp/tengo-yo/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/poliquinp/tengo-yo/compare/b70cd37...v1.1.0
 [1.0.2]: https://github.com/poliquinp/tengo-yo/commits/b70cd37
