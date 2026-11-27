@@ -7,13 +7,14 @@
 [![Jouer](https://img.shields.io/badge/▶_Jouer-en_ligne-FF007F?style=for-the-badge)](https://patricepoliquin.com/tengoyo/)
 [![Cartes](https://img.shields.io/badge/cartes-419-FF9A00?style=for-the-badge)](data/questions.json)
 ![Langue](https://img.shields.io/badge/langue-français-00A859?style=for-the-badge)
+[![Version](https://img.shields.io/badge/version-1.0.2-1a1418?style=for-the-badge)](CHANGELOG.md)
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-0072CE?style=for-the-badge)](LICENSE)
 
 **Ton coéquipier et toi, vous pensez vraiment pareil ? Vous avez 15 secondes pour le prouver.**
 
 💀 Le party game où il faut écrire **le même mot** que son coéquipier, sur un seul cell posé au milieu de la table 🌶️
 
-[**▶️ Jouer maintenant**](https://patricepoliquin.com/tengoyo/) · [📜 Comment jouer](#-comment-jouer) · [🧾 Feuilles à imprimer](#-feuilles-à-imprimer) · [🇬🇧 English](#-in-english)
+[**▶️ Jouer maintenant**](https://patricepoliquin.com/tengoyo/) · [📜 Comment jouer](#comment-jouer) · [🧾 Feuilles à imprimer](#-feuilles-à-imprimer) · [🇬🇧 English](#-in-english)
 
 </div>
 
@@ -254,6 +255,12 @@ En 15 secondes, on écrit un mot, pas une phrase. Si la réponse instinctive dé
 Les formes qui marchent : « Un/Une + nom » (objet, lieu, partie du corps, aliment), « Le nombre de… », « Le premier mot qu'on dit quand… », « Un verbe pour dire… », ou une phrase à compléter qui finit par « … ».
 Les formes à éviter : excuses, raisons, « une chose qu'on fait », titres (films, chansons) et noms complets de personnes.
 
+#### Après l'ajout de cartes
+
+1. Mettre à jour les nombres de cartes dans ce README : le badge « cartes », le tableau « Pourquoi Tengo Yo » et, si une catégorie est ajoutée, la liste des `category`.
+2. Consigner l'ajout dans le [CHANGELOG](CHANGELOG.md), sous « Non publié » : le nombre de cartes ajoutées par niveau et le nouveau total.
+3. À la publication, donner un numéro de version (une nouvelle série de cartes = version mineure, par exemple 1.1.0) et mettre à jour le badge « version ».
+
 ### 💀 Logo
 
 `assets/img/logo.webp` est généré depuis `ref/logo/logo-stacked-20261127-1022-2.png`. Le fond blanc extérieur est détouré en transparence (les blancs internes du crâne et des reflets sont conservés), puis l'image est recadrée et redimensionnée à 720 px de large.
@@ -271,6 +278,6 @@ Le logo apparaît sur l'accueil et sur l'écran de fin. Pour le changer, remplac
 
 **Tu as ri ? Donne une ⭐ au dépôt et envoie [le lien](https://patricepoliquin.com/tengoyo/) à ton prochain souper entre amis.**
 
-Fait au Québec par [Patrice Poliquin](https://patricepoliquin.com) · Code sous [licence MIT](LICENSE)
+Fait au Québec par [Patrice Poliquin](https://patricepoliquin.com) · Version 1.0.2 ([changelog](CHANGELOG.md)) · Code sous [licence MIT](LICENSE)
 
 </div>
